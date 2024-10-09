@@ -1,0 +1,13 @@
+data crawling -> data mining -> data visualize
+
+time iseries -> sql
+news ->
+text + image
+Ex ->
+
+
+database -> data ware house -> data mining ->patterns 
+
+dcd
+
+dropa loai bor hangf
